@@ -1,0 +1,19 @@
+nav{
+    background-color: #5d5d5d !important;
+    color: white !important;
+}
+
+button{
+    border: none !important;
+}
+
+#logo{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(161, 152, 152);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
